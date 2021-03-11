@@ -1,0 +1,15 @@
+/* swiper */
+
+.swiper-container {
+  max-width: 100%;
+  height: auto;
+}
+.swiper-slide img {
+  max-width: 100%;
+  background-position: center;
+}
+.swiper-pagination-bullet-active {
+  background: $primary;
+  font-weight: bolder;
+}
+
